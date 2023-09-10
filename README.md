@@ -56,7 +56,7 @@
 ### Leetcode Stats
 
 <div>
-  <img src="https://leetcard.jacoblin.cool/ChanderVeerSingh?ext=heatmap" alt="GitHub Stats" width="80%" margin="50px">
+  <img src="https://leetcard.jacoblin.cool/chanderveersingh099" alt="GitHub Stats" width="80%" margin="50px">
 </div>
 
 ### GitHub Stats
